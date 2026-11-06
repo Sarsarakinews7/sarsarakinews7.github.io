@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sarsarakinews7.twa",
+      "sha256_cert_fingerprints": [
+        "1F:ED:62:C5:07:82:32:D0:B5:E2:81:CD:9C:5A:EE:58:92:48:C6:BC:01:5C:F5:07:74:43:B4:0F:49:F7:9C:C5"
+      ]
+    }
+  }
+]
